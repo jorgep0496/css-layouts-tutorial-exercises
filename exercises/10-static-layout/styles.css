@@ -1,5 +1,25 @@
 /* your code here */
+header {
+	margin-left: 20px;
+	margin-right: 20px;
+	display: block;
+}
 
+nav {
+	width: 300px;
+	height: 600px;
+	margin-left: 20px;
+	margin-right: 5px;
+	display: inline-block;
+}
+
+section {
+	width: 1180px;
+	height: 600px;
+	margin-left: 5px;
+	margin-right: 20px;
+	display: inline-block;
+}
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/
